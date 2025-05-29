@@ -28,8 +28,8 @@ I am interested in technology and innovation, with experience in computing, soft
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdsonNSA/EdsonNSA/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdsonNSA/EdsonNSA/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EdsonNSA/EdsonNSA/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdsonNSA/EdsonNSA/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EdsonNSA/EdsonNSA/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
