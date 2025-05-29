@@ -25,7 +25,6 @@ I am interested in technology and innovation, with experience in computing, soft
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonNSA&theme=city_light&hide_border=true&layout=compact&count_private=true&hide=jupyter%20notebook" alt="Top Languages">
 </div>
 
-# 🐍 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdsonNSA/EdsonNSA/output/github-contribution-grid-snake-dark.svg">
