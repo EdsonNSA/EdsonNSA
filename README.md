@@ -20,9 +20,9 @@ I am interested in technology and innovation, with experience in computing, soft
 
 # 📈 GitHub Stats
 <div align="center">
-  <img src="https://bad-apple-github-readme.vercel.app/api?username=EdsonNSA&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="GitHub Stats"><br/>
-  <img src="https://streak-stats.demolab.com/?user=EdsonNSA&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak Stats"><br/>
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=EdsonNSA&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=EdsonNSA&theme=city_light&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonNSA&theme=city_light&hide_border=true" alt="GitHub Streak Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonNSA&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook" alt="Top Languages">
 </div>
 
 <picture align="center">
