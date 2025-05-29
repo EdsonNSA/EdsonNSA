@@ -25,7 +25,11 @@ I am interested in technology and innovation, with experience in computing, soft
   <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=EdsonNSA&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Most Used Languages">
 </div>
 
-<img src="https://raw.githubusercontent.com/EdsonNSA/EdsonNSA/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LipeLacross/LipeLacross/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LipeLacross/LipeLacross/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LipeLacross/LipeLacross/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h1 align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2bb712&height=120&section=footer"/>
