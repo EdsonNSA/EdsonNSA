@@ -6,7 +6,7 @@ on:
   workflow_dispatch:         # Executável manualmente
   push:
     branches:
-      - master               # Executa ao fazer push na branch master
+      - main               # Executa ao fazer push na branch master
 
 jobs:
   generate-snake:
